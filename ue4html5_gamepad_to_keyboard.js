@@ -5,7 +5,7 @@
 (c)2022 by Emily&Charlotte Lounge
 https://emilycharlotte.jp/
 
-バージョン 0.7.0.1
+バージョン 0.7.0.2
 作成日 2022-06-19
 更新日 2022-06-22
 
@@ -244,7 +244,7 @@ let ue4html5_keyCodeList = {
 // ゲームパッドのボタンインデックスとステータス
 // 
 // 参照 - https://w3c.github.io/gamepad/
-// status 0=押されていない、1=High、2=Low。
+// status 0=押されていない、2=Low、1=High。
 // 
 // ue4html5_gamepadInputList[ボタン|スティック][ボタン名] { index, status }
 // 

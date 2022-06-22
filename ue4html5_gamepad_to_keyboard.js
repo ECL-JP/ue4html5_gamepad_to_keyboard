@@ -44,7 +44,7 @@ Unbreal Engine 4の4.23(4.24ではコミュニティによる対応)は標準で
     見つけて必要に応じて書き換えます。
 
 4.  出力された"プロジェクト名.html"の後ろのほうにある下記行を見つけます。
-    <script src="html5_sample-HTML5-Shipping.UE4.js"></script>
+    <script src="プロジェクト名-HTML5-Shipping.UE4.js"></script>
 
 5.  4で見つけた行の次の行に下記を追加します。
     <script src="ue4html5_gamepad_to_keyboard.js"></script>

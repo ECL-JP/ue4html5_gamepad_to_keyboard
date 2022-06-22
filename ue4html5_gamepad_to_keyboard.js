@@ -5,7 +5,7 @@
 (c)2022 by Emily&Charlotte Lounge
 https://emilycharlotte.jp/
 
-バージョン 0.7.0.0
+バージョン 0.7.0.1
 作成日 2022-06-19
 更新日 2022-06-22
 
